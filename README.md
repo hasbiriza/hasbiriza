@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hasby!
 
-## I'm a  Software Developer
+## I'm a  Software Engineer
 
 ### 📈 my github stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasbiriza&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="hasbiriza" /></p>
